@@ -1,6 +1,6 @@
 # One Month Rails
 
 This is the pinteresting sample application for
-[*One Month Rails*](http://onemonthrails.com)
+[*Pinteresting*](http://sandeepprabhakara.com)
 
 by [Sandeep Prabhakara](http://sandeepprabhakara.com)
